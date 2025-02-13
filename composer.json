@@ -1,5 +1,5 @@
 {
-    "name": "open-admin-ext/ckeditor",
+    "name": "lluisandreu/open-admin-ckeditor",
     "description": "Integrate CKEDITOR into open-admin",
     "type": "library",
     "keywords": [
@@ -9,7 +9,7 @@
         "editor",
         "CKEditor"
     ],
-    "homepage": "https://github.com/open-admin-ext/ckeditor",
+    "homepage": "https://github.com/lluisandreu/open-admin-ckeditor",
     "license": "MIT",
     "authors": [
         {
